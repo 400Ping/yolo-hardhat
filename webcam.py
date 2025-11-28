@@ -5,8 +5,8 @@ from ultralytics import YOLO
 
 # ================= 設定區 =================
 # 請填入你的 LINE Messaging API 資訊
-LINE_ACCESS_TOKEN = "BzXlf2/u3p3FMRYwAd3+JeK08Rqyq+IAkOiyhKn+7K1Ga/j7QUaynPTlaKyR7PEYnbDOMhE0PIHF9QrjmVaSDQIril9MS/EydFbRMt2vyYptA5RF3zOjv0mft4DwKON+DTqSJwzW+uHrauq7e1dBvwdB04t89/1O/w1cDnyilFU="
-LINE_USER_ID = "Ud5c29ce042d676b99b6133bf950957f9"
+LINE_ACCESS_TOKEN = ""
+LINE_USER_ID = ""
 
 # 設定警報冷卻時間 (秒)，避免訊息轟炸
 ALERT_COOLDOWN = 300 
